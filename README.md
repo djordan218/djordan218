@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Jordan!</h1>
 <h3 align="center">A motivated and creative developer with a love for problem-solving and coding!</h3>
 
-- 🌱 I’m currently learning **Java through Codeacademy**
-
 - 👨‍💻 All of my projects are available at [http://danielthedeveloper.com](http://danielthedeveloper.com)
+- NOTE: this is currently deprecated due to landing employment in June of 2023
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node.js, Python, Flask, Java!**
 
