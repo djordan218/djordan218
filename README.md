@@ -4,13 +4,13 @@
 - 👨‍💻 All of my projects are available at [http://danielthedeveloper.com](http://danielthedeveloper.com)
   <br>NOTE: this is currently deprecated due to landing employment in June of 2023
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node.js, Python, Flask, Java!**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node.js, Golang, PostgrSQL and anything AWS!**
 
 - 📫 How to reach me **djordan218@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ulB-wqadlOlVtoUdsqc2mcHOE7pbAeik/view?usp=share_link](https://drive.google.com/file/d/1ulB-wqadlOlVtoUdsqc2mcHOE7pbAeik/view?usp=share_link)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1-Bde6DhX4Lh249Hip0jMJaQAfrXanHTRuyNyiE__oC0/edit?usp=sharing)
 
-- ⚡ Fun fact **I have been a musician in the Army Reserves for 14+ years!**
+- ⚡ Fun fact **I have been a musician in the Army Reserves for almost two decades!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
